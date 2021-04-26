@@ -1,5 +1,5 @@
 # Resume_Parser
-Trying to categories words of resume with its meaning using image of PDF.
+Trying to categories words of resume like cardinal,org etc.
 
 # DETAILS:
 Used the spacy module which is fast and more accurate than nltk.
